@@ -86,6 +86,9 @@ The desired RUL estimation will be the value of the most similar operation perio
 ![alt text](image-22.png)
 
 Feature extraction, data cleaning and RUL normalization
+
+![alt text](image-25.png)
+
 Assign a cycle for each hit using time. 
 Assign a RUL  for each hit that we know now the total number of cycles
 Normalize the RUL values between 0 and1
