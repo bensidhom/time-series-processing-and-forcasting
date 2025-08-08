@@ -108,4 +108,6 @@ batch_size=50
 Mean Absolute Error: 0.12126805577578029 
 Mean Squared Error: 0.02203677116764039
 
+![alt text](image-24.png)
+
 ![alt text](Picture3.gif)
